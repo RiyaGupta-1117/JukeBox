@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1588948458 source:c:\users\gupta\onedrive\documents\addressbook\jukebox\main.c
+	"jukebox.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1588860944 c:\users\gupta\onedrive\documents\addressbook\jukebox\jukebox.h
+	<stdbool.h>
+
+1588947736 source:c:\users\gupta\onedrive\documents\addressbook\jukebox\jukebox.c
+	"jukebox.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1589041275 source:c:\users\gupta\onedrive\documents\jukebox\jukebox.c
+	"jukebox.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1589039684 c:\users\gupta\onedrive\documents\jukebox\jukebox.h
+	<stdbool.h>
+
+1589041295 source:c:\users\gupta\onedrive\documents\jukebox\main.c
+	"jukebox.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
